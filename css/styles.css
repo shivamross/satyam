@@ -1016,8 +1016,8 @@ footer{
     }
 
     .hero-img img {
-    height: 60%;
-    width : auto;
+    height: auto;
+    width : 40%;
     position: absolute;
     left: 2%;
     bottom: 150px;
